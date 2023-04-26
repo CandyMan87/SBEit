@@ -1,3 +1,3 @@
-# SBEit  -  ONLY FOR INTERNAL USE!
+# SBE
 Tool & Script Repository 
 
